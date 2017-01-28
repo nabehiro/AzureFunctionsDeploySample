@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTrigger01", "TimerTrigger01\TimerTrigger01.csproj", "{C5514B38-8F6A-42D0-81D0-99F6CE0238B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTrigger02", "TimerTrigger02\TimerTrigger02.csproj", "{F1A61771-3CBA-45DD-8B0E-414F8FDECCA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueTrigger01", "QueueTrigger01\QueueTrigger01.csproj", "{56D32128-2911-41F5-8D7E-B6C2E30F5F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5514B38-8F6A-42D0-81D0-99F6CE0238B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5514B38-8F6A-42D0-81D0-99F6CE0238B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5514B38-8F6A-42D0-81D0-99F6CE0238B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5514B38-8F6A-42D0-81D0-99F6CE0238B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A61771-3CBA-45DD-8B0E-414F8FDECCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A61771-3CBA-45DD-8B0E-414F8FDECCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A61771-3CBA-45DD-8B0E-414F8FDECCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A61771-3CBA-45DD-8B0E-414F8FDECCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D32128-2911-41F5-8D7E-B6C2E30F5F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D32128-2911-41F5-8D7E-B6C2E30F5F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D32128-2911-41F5-8D7E-B6C2E30F5F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D32128-2911-41F5-8D7E-B6C2E30F5F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
