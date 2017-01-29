@@ -57,5 +57,6 @@ $commandBody = @{
 }
 Invoke-RestMethod -Uri $apiUrl -Headers @{Authorization=("Basic {0}" -f $base64AuthInfo)} -Method POST -ContentType "application/json" -Body (ConvertTo-Json $commandBody)
 
+# TODO: Upload Functions
 
 
